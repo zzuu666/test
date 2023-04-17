@@ -24,6 +24,8 @@ fi
 
 INIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 git fetch $ORIGIN $DEFAULT_BRANCH
+git checkout $DEFAULT_BRANCH
+git rebase $ORIGIN/$DEFAULT_BRANCH
 for ((i = 1; i <= TOTAL; i++)); do
   create_pr $ORIGIN "pr$i"
 done
