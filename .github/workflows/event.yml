@@ -32,4 +32,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Hello world
-        run: echo Hello, world!
+        run: |
+          echo Hello, world!
+          sleep 30
+          echo Bye, world!
