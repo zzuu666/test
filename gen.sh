@@ -18,8 +18,8 @@ function create_pr() {
   git push -f "$1" "$2"
 }
 
-if [ -n "$2" ]; then
-  TOTAL=$2
+if [ -n "$1" ]; then
+  TOTAL=$1
 fi
 
 INIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
