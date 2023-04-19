@@ -34,5 +34,5 @@ jobs:
       - name: Hello world
         run: |
           echo Hello, world!
-          sleep 30
+          sleep 180
           echo Bye, world!
