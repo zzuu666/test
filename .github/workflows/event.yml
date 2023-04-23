@@ -35,7 +35,7 @@ jobs:
         run: |
           echo Hello, world!
           if [ "${{github.event_name}}" == "merge_group" ]; then
-            sleep 30
+            sleep 180
           else
             sleep 10
           fi
