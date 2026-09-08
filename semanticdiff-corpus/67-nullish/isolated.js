@@ -1,0 +1,1 @@
+const x = input || backup;
