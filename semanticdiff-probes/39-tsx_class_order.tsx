@@ -1,1 +1,1 @@
-const x=<C className="a b"/>;
+const x=<C className="b a"/>;

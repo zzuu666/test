@@ -1,1 +1,1 @@
-function f() { first(); second(); }
+function f() { if (ready) { first(); second(); } }

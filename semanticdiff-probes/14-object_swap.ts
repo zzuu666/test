@@ -1,1 +1,1 @@
-const x = {a: first(), b: second()};
+const x = {b: second(), a: first()};

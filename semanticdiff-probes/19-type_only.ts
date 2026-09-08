@@ -1,1 +1,1 @@
-function f(x: string): string { return x; }
+function f(x: number): number { return x; }
