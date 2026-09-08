@@ -1,2 +1,2 @@
-import "alpha";
 import "beta";
+import "alpha";

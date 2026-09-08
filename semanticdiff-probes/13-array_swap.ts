@@ -1,1 +1,1 @@
-const xs = ["alpha", "beta", "gamma"];
+const xs = ["beta", "alpha", "gamma"];

@@ -1,1 +1,1 @@
-function f<const T>(x:T){return x}
+function f<const U>(x:U){return x}

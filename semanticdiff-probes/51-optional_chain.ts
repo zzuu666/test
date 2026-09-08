@@ -1,1 +1,1 @@
-const x = a.b();
+const x = a?.b();
