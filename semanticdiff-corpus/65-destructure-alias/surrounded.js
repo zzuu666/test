@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-const {a:local}=source; log(local);
+const {a:alias}=source; log(alias);
 
 const __probeEnd = 456;

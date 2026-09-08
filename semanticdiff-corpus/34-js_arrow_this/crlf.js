@@ -1,2 +1,2 @@
 // Windows line endings
-const f = function() { return this.x; };
+const f = () => { return this.x; };

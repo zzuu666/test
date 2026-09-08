@@ -1,2 +1,2 @@
 let i = 0;
-const x = <C a={++i} b={++i} />;
+const x = <C b={++i} a={++i} />;

@@ -1,8 +1,8 @@
 const __probeStart = 123;
 
 const xs=[
- "alpha",
  "beta",
+ "alpha",
  "gamma",
 ];
 

@@ -1,2 +1,2 @@
 // Windows line endings
-export const value=1;
+const value=1; export default value;

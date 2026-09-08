@@ -1,4 +1,4 @@
 // Windows line endings
-first();
 second();
+first();
 third();

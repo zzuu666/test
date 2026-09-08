@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-function f() { first(); second(); }
+function f() { if (ready) { first(); second(); } }
 
 const __probeEnd = 456;

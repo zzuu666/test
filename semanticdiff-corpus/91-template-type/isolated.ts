@@ -1,1 +1,1 @@
-type X = `get${string}`;
+type X = `set${string}`;

@@ -1,1 +1,1 @@
-using x = resource();
+using y = resource();

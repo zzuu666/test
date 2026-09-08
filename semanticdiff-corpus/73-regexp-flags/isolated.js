@@ -1,1 +1,1 @@
-const pattern=/hello/gi;
+const pattern=/hello/g;

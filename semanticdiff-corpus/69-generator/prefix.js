@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-function* values(){ yield 1; yield 2; }
+function* values(){ yield* other(); yield 2; }

@@ -1,8 +1,2 @@
-afterAll(() => {
- if (old === undefined) {
-  delete global.x;
-  return;
- }
- global.x = old;
-});
+afterAll(() => vi.unstubAllGlobals());
 it("case", () => run());

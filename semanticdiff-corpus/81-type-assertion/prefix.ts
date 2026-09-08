@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const x = value as string;
+const x = value as number;

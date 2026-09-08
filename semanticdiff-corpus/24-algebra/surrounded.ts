@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-const x = a + b;
+const x = b + a;
 
 const __probeEnd = 456;

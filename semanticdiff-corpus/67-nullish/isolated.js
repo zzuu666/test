@@ -1,1 +1,1 @@
-const x = input || backup;
+const x = input ?? backup;

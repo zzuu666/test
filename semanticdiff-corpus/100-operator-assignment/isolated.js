@@ -1,1 +1,1 @@
-value += step;
+value -= step;

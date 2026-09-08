@@ -1,2 +1,2 @@
 // Windows line endings
-const x = a.b();
+const x = a?.b();

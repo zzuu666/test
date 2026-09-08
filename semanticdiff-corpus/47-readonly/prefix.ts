@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-interface X { a: string; }
+interface X { readonly a: string; }

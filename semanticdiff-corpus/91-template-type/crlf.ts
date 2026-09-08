@@ -1,2 +1,2 @@
 // Windows line endings
-type X = `get${string}`;
+type X = `set${string}`;

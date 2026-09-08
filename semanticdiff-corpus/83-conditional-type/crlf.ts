@@ -1,2 +1,2 @@
 // Windows line endings
-type X<T> = T extends string ? A : B;
+type X<T> = T extends number ? A : B;

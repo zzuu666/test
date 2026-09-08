@@ -1,2 +1,2 @@
 // Windows line endings
-const x=<C {...p} a={1}/>;
+const x=<C a={1} {...p}/>;

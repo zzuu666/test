@@ -1,12 +1,5 @@
 function __probeA(value) { log(value); return value; }
 
-function alpha(x) {
-  const adjusted = x + 1;
-  const doubled = adjusted * 2;
-  log(doubled);
-  return doubled;
-}
-
 function stable0(input) {
   const value = input + 0;
   audit0(value);
@@ -35,6 +28,13 @@ function stable4(input) {
   const value = input + 4;
   audit4(value);
   return value;
+}
+
+function alpha(x) {
+  const adjusted = x + 1;
+  const doubled = adjusted * 3;
+  log(doubled);
+  return doubled;
 }
 
 function __probeB(value) { log(value); return value; }

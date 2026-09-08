@@ -1,3 +1,3 @@
-function f(total) {
-  return { total: total, text: 'total', value: obj.total };
+function f(result) {
+  return { total: result, text: 'total', value: obj.total };
 }

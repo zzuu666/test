@@ -1,1 +1,1 @@
-class C { static { first(); second(); } }
+class C { static { second(); first(); } }

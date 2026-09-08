@@ -1,2 +1,2 @@
 // Windows line endings
-const xs = ["alpha", "beta", "gamma"];
+const xs = ["beta", "alpha", "gamma"];

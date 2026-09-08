@@ -1,2 +1,2 @@
 // Windows line endings
-const [first,...rest]=items;
+const [head,...tail]=items;

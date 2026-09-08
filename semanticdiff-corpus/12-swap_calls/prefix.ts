@@ -1,5 +1,5 @@
 function __probeBefore(input) { return input; }
 
-first();
 second();
+first();
 third();

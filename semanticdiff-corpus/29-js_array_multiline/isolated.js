@@ -1,5 +1,5 @@
 const xs=[
- "alpha",
  "beta",
+ "alpha",
  "gamma",
 ];

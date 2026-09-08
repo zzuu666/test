@@ -1,2 +1,3 @@
 // Windows line endings
-const x="a\nb";
+const x=`a
+b`;

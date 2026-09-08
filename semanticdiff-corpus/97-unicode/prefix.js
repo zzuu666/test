@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const café = '🍎';
+const café = '🍐';

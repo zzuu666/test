@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-const [first,...rest]=items;
+const [head,...tail]=items;
 
 const __probeEnd = 456;

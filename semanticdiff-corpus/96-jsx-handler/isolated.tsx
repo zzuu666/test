@@ -1,1 +1,1 @@
-const view=<Button onClick={save}/>;
+const view=<Button onClick={()=>save(id)}/>;

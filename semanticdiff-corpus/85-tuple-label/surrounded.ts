@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-type X = [first: string, second: number];
+type X = [name: string, count: number];
 
 const __probeEnd = 456;

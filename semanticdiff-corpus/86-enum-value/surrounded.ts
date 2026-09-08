@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-enum State { Idle, Active=1 }
+enum State { Idle, Active=2 }
 
 const __probeEnd = 456;

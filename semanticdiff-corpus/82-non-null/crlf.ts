@@ -1,2 +1,2 @@
 // Windows line endings
-const x = value.name;
+const x = value!.name;

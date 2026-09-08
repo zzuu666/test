@@ -1,5 +1,5 @@
 function __probeA(value) { log(value); return value; }
 
-type X = string | number;
+type X = number | string;
 
 function __probeB(value) { log(value); return value; }

@@ -1,1 +1,1 @@
-const x=<C>&amp;</C>;
+const x=<C>{"&"}</C>;

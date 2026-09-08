@@ -1,2 +1,2 @@
 // Windows line endings
-const x=tag`a`;
+const x=tag`\u0061`;

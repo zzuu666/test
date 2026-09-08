@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-import {value as local} from 'pkg'; log(local);
+import {value as alias} from 'pkg'; log(alias);
 
 const __probeEnd = 456;

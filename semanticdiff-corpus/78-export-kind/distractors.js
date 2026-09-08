@@ -1,5 +1,5 @@
 function __probeA(value) { log(value); return value; }
 
-export const value=1;
+const value=1; export default value;
 
 function __probeB(value) { log(value); return value; }

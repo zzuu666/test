@@ -1,1 +1,1 @@
-const x = <C a={1} a={2} />;
+const x = <C a={2} a={1} />;

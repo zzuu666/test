@@ -1,2 +1,2 @@
 // Windows line endings
-class C { #value=1; read(){return this.#value;} }
+class C { #value=2; read(){return this.#value;} }

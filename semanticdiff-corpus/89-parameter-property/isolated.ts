@@ -1,1 +1,1 @@
-class C { constructor(public value:string){} }
+class C { constructor(readonly value:string){} }

@@ -1,1 +1,1 @@
-const [first,...rest]=items;
+const [head,...tail]=items;

@@ -1,1 +1,1 @@
-type X<T> = { [K in keyof T]: T[K] };
+type X<T> = { readonly [K in keyof T]?: T[K] };

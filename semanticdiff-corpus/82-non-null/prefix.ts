@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const x = value.name;
+const x = value!.name;

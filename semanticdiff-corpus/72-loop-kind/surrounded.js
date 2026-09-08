@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-for (const key in source) log(key);
+for (const key of source) log(key);
 
 const __probeEnd = 456;

@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const {a=1}=source;
+const {a=2}=source;

@@ -1,2 +1,2 @@
 // Windows line endings
-const café = '🍎';
+const café = '🍐';

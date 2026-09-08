@@ -1,2 +1,2 @@
 // Windows line endings
-value += step;
+value -= step;

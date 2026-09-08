@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-enum State { Idle, Active=1 }
+enum State { Idle, Active=2 }

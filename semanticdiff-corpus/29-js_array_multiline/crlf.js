@@ -1,6 +1,6 @@
 // Windows line endings
 const xs=[
- "alpha",
  "beta",
+ "alpha",
  "gamma",
 ];

@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const x = {a: first(), b: second()};
+const x = {b: second(), a: first()};

@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const view=<Button onClick={save}/>;
+const view=<Button onClick={()=>save(id)}/>;
