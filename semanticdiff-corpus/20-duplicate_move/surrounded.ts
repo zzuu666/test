@@ -1,8 +1,8 @@
 const __probeStart = 123;
 
 a();
-b();
 a();
+b();
 c();
 
 const __probeEnd = 456;

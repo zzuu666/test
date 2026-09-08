@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-class C { public value=1; }
+class C { private value=1; }

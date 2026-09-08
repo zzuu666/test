@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const f = function(x) { return x + 1; };
+const f = (x) => { return x + 1; };

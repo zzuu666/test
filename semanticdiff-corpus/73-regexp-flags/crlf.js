@@ -1,2 +1,2 @@
 // Windows line endings
-const pattern=/hello/gi;
+const pattern=/hello/g;

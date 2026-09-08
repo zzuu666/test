@@ -1,1 +1,1 @@
-const x = a + b * c;
+const x = (a + (b * c));

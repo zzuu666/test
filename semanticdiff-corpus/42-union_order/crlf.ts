@@ -1,2 +1,2 @@
 // Windows line endings
-type X = string | number;
+type X = number | string;

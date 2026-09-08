@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-export const value=1;
+const value=1; export default value;

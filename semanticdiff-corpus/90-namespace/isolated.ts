@@ -1,1 +1,1 @@
-namespace N { export const value=1; }
+namespace N { export const value=2; }

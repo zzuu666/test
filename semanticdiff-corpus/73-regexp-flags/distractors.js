@@ -1,5 +1,5 @@
 function __probeA(value) { log(value); return value; }
 
-const pattern=/hello/gi;
+const pattern=/hello/g;
 
 function __probeB(value) { log(value); return value; }

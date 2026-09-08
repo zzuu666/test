@@ -1,7 +1,7 @@
 const __probeStart = 123;
 
-first();
 second();
+ first ( )
 third();
 
 const __probeEnd = 456;

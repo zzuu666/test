@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-type X<T> = { [K in keyof T]: T[K] };
+type X<T> = { readonly [K in keyof T]?: T[K] };
 
 const __probeEnd = 456;

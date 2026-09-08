@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-function f(x: string): string { return x; }
+function f(x: number): number { return x; }

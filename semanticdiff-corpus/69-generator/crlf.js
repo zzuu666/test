@@ -1,2 +1,2 @@
 // Windows line endings
-function* values(){ yield 1; yield 2; }
+function* values(){ yield* other(); yield 2; }

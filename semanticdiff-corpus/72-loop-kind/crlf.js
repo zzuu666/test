@@ -1,2 +1,2 @@
 // Windows line endings
-for (const key in source) log(key);
+for (const key of source) log(key);

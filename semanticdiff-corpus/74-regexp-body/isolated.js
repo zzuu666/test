@@ -1,1 +1,1 @@
-const pattern=/a[0-9]+/;
+const pattern=/b[0-9]+/;

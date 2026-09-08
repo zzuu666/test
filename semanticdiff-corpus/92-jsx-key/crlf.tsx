@@ -1,2 +1,2 @@
 // Windows line endings
-const view=<Item key={item.id} />;
+const view=<Item key={index} />;

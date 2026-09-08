@@ -1,5 +1,5 @@
 function __probeA(value) { log(value); return value; }
 
-const x={...base,a:1};
+const x={a:1,...base};
 
 function __probeB(value) { log(value); return value; }

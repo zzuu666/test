@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-function f() { first(); second(); }
+function f() { if (ready) { first(); second(); } }

@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const x = input || backup;
+const x = input ?? backup;

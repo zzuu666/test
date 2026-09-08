@@ -1,1 +1,1 @@
-async function load(){ return fetchData(); }
+async function load(){ return await fetchData(); }

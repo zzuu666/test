@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-interface X { a: string; b: number; }
+interface X { b: number; a: string; }
 
 const __probeEnd = 456;

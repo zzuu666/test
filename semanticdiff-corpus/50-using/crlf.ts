@@ -1,2 +1,2 @@
 // Windows line endings
-using x = resource();
+using y = resource();

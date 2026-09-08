@@ -1,2 +1,2 @@
 // Windows line endings
-enum State { Idle, Active=1 }
+enum State { Idle, Active=2 }

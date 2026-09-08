@@ -1,2 +1,2 @@
 // Windows line endings
-const x = vi.fn();
+const x = vi.fn().mockResolvedValue("submitted");

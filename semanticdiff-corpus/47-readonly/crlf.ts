@@ -1,2 +1,2 @@
 // Windows line endings
-interface X { a: string; }
+interface X { readonly a: string; }

@@ -1,6 +1,6 @@
 const __probeStart = 123;
 
-import "alpha";
 import "beta";
+import "alpha";
 
 const __probeEnd = 456;

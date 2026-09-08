@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-const x=<C>&amp;</C>;
+const x=<C>{"&"}</C>;
 
 const __probeEnd = 456;

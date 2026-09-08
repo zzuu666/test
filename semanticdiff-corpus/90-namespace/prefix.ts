@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-namespace N { export const value=1; }
+namespace N { export const value=2; }

@@ -1,1 +1,1 @@
-const café = '🍎';
+const café = '🍐';

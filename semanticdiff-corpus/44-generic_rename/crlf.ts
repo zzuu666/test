@@ -1,2 +1,2 @@
 // Windows line endings
-function id<T>(x:T):T{return x}
+function id<U>(x:U):U{return x}

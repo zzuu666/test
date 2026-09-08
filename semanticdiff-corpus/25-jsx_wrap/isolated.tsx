@@ -1,1 +1,1 @@
-const view = <Panel><Item id="a" /></Panel>;
+const view = <Panel><Wrapper><Item id="a" /></Wrapper></Panel>;

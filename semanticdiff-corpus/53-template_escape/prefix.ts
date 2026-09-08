@@ -1,3 +1,4 @@
 function __probeBefore(input) { return input; }
 
-const x="a\nb";
+const x=`a
+b`;

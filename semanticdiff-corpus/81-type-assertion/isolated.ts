@@ -1,1 +1,1 @@
-const x = value as string;
+const x = value as number;

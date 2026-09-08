@@ -1,2 +1,2 @@
 // Windows line endings
-import { Foo } from "pkg";
+import type { Foo } from "pkg";

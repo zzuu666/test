@@ -1,2 +1,2 @@
 // Windows line endings
-const view=<Button onClick={save}/>;
+const view=<Button onClick={()=>save(id)}/>;

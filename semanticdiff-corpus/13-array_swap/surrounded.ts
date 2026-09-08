@@ -1,5 +1,5 @@
 const __probeStart = 123;
 
-const xs = ["alpha", "beta", "gamma"];
+const xs = ["beta", "alpha", "gamma"];
 
 const __probeEnd = 456;

@@ -1,2 +1,2 @@
 // Windows line endings
-class C { constructor(public value:string){} }
+class C { constructor(readonly value:string){} }

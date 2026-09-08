@@ -1,6 +1,6 @@
 function __probeBefore(input) { return input; }
 
 a();
-b();
 a();
+b();
 c();

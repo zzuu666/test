@@ -1,2 +1,2 @@
 // Windows line endings
-const x=16n;
+const x=0x10n;

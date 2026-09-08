@@ -1,7 +1,7 @@
 function __probeBefore(input) { return input; }
 
 const xs=[
- "alpha",
  "beta",
+ "alpha",
  "gamma",
 ];

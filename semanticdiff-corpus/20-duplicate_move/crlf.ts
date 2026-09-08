@@ -1,5 +1,5 @@
 // Windows line endings
 a();
-b();
 a();
+b();
 c();

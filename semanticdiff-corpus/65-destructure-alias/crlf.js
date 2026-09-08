@@ -1,2 +1,2 @@
 // Windows line endings
-const {a:local}=source; log(local);
+const {a:alias}=source; log(alias);

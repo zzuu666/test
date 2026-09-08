@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-const x=tag`a`;
+const x=tag`\u0061`;

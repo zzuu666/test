@@ -1,2 +1,2 @@
 // Windows line endings
-function f() { first(); second(); }
+function f() { if (ready) { first(); second(); } }

@@ -1,3 +1,3 @@
 function __probeBefore(input) { return input; }
 
-import { Foo } from "pkg";
+import type { Foo } from "pkg";
